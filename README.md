@@ -8,7 +8,7 @@ This repository contains an **end-to-end** data science portfolio project for pr
 
 ## Project Overview
 
-- Dataset:[LendingClub loan data (Kaggle)](https://www.kaggle.com/datasets/wordsforthewise/lending-club) 
+- Dataset: [LendingClub loan data (Kaggle)](https://www.kaggle.com/datasets/wordsforthewise/lending-club) 
 - Problem: Binary classification (Default vs Non-Default)  
 - Goal: Build a robust model to rank borrower risk at origination  
 
