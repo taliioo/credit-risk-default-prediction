@@ -2,9 +2,9 @@
 
 **Author:** Talia Low | **Date:** March 2026
 
-This repository contains an **end-to-end** data science portfolio project for predicting loan defaults using the Lending Club dataset (2007–2018). The objective is to demonstrate a structured, industry-aligned approach to credit-risk modelling, including strict out-of-time validation, business-aligned threshold selection, and model explainability.
+This repository contains an **end-to-end** data science portfolio project for predicting loan defaults using the Lending Club dataset (2007-2018). The objective is to demonstrate a structured, industry-aligned approach to credit risk modelling, including strict out-of-time validation, business-aligned threshold selection, and model explainability.
 
-This project is intended as a well-structured baseline demonstrating an end-to-end workflow, with further improvements possible in areas such as time-based validation, feature design, model calibration, and business-driven optimisation.
+This project serves as a well-structured baseline for an end-to-end credit risk modelling workflow. Among the candidate models, **XGBoost (Tuned)** emerged as the strongest final model, delivering the best validation performance and remaining the top performer on the out-of-time holdout set, with ROC-AUC = 0.7437, PR-AUC = 0.4468, and KS = 0.3569. Overall, the model demonstrates solid ranking performance for a baseline portfolio project, with further improvement still possible in areas such as feature design, calibration, and business-driven optimisation.
 
 
 ## Project Overview
